@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-    <img src="images/rds.png" alt="Amazon RDS" style="display: block; margin: 0 auto; width:150px; height:150px;">
-	<img src="images/lambda.png" alt="AWS Lambda" style="display: block; margin: 0 auto; width:120px; height:120px;">
+    <img src="images/lambda.png" alt="AWS Lambda" style="display: block; margin: 0 auto; width:120px; height:120px;">
+	<img src="images/rds.png" alt="Amazon RDS" style="display: block; margin: 0 auto; width:150px; height:150px;">
 	<img src="images/java.png" alt="Java" style="display: block; margin: 0 auto; width:150px; height:150px;">
 	<img src="images/postgres.png" alt="PostgreSQL" style="display: block; margin: 0 auto; width:150px; height:150px;">
 </div>
