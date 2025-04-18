@@ -298,4 +298,4 @@ conteúdo da caixa segue esteja como a seguir: br.com.github.pedrossjr.LambdaPos
 
 Se você conseguiu chegar até aqui com sucesso, verá como resultado o JSON com a listagem de autores e seus livros conforme imagem abaixo.
 
-![Resposta.](/images/resultado.pnj "Resposta")
+![Resposta.](/images/resultado.png "Resposta")
