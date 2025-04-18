@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+    <img src="images/lambda.jpg" alt="AWS Lambda" style="display: block; margin: 0 auto;">
+</div>
+
+
 ## Projeto da Amazon RDS e AWS Lambda com Java
 
 __Esta documentação foi elaborada em 18/04/2025.__
@@ -23,6 +28,7 @@ servidores. Nele você consegue executar códigos: Node.js, Python, Java, .Net e
 
 > ### Ferramentas utilizadas
 
+* Java 21
 * IntelliJ IDEA Community Edition
 * pgAdmin 4
 
