@@ -6,7 +6,7 @@
 </div>
 
 
-## Projeto da Amazon RDS e AWS Lambda com Java
+## Projeto da Amazon RDS e AWS Lambda com Java e PostgreSQL
 
 __Esta documentação foi elaborada em 18/04/2025.__
 
@@ -25,7 +25,7 @@ servidores. Nele você consegue executar códigos: Node.js, Python, Java, .Net e
 
 > ### Serviços utilizados
 
-* Uma conta Free Tier na Amazon Web Service (AWS). Será necessário cadastrar um cartão de crédito.
+* Uma conta Free Tier na Amazon Web Service. Será necessário cadastrar um cartão de crédito.
 * Amazon RDS (PostgreSQL)
 * AWS Lambda (Funções e Camadas)
 
