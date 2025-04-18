@@ -26,8 +26,8 @@ servidores. Nele você consegue executar códigos: Node.js, Python, Java, .Net e
 > ### Serviços utilizados
 
 * Uma conta Free Tier na Amazon Web Service (AWS). Será necessário cadastrar um cartão de crédito.
-* Amazon RDS
-* AWS Lambda
+* Amazon RDS (PostgreSQL)
+* AWS Lambda (Funções e Camadas)
 
 > ### Ferramentas utilizadas
 
