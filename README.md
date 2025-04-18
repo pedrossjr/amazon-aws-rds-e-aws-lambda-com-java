@@ -1,7 +1,7 @@
 <div style="text-align: center;">
-    <img src="images/lambda.png" alt="AWS Lambda" style="display: block; margin: 0 auto; width:100px; height:170px;">
-	<img src="images/rds.png" alt="Amazon RDS" style="display: block; margin: 0 auto; width:170px; height:170px;">
-	<img src="images/java.png" alt="Amazon RDS" style="display: block; margin: 0 auto; width:170px; height:170px;">
+    <img src="images/lambda.png" alt="AWS Lambda" style="display: block; margin: 0 auto; width:150px; height:150px;">
+	<img src="images/rds.png" alt="Amazon RDS" style="display: block; margin: 0 auto; width:150px; height:150px;">
+	<img src="images/java.png" alt="Amazon RDS" style="display: block; margin: 0 auto; width:150px; height:150px;">
 </div>
 
 
