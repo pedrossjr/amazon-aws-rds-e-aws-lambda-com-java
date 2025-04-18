@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="images/lambda.jpg" alt="AWS Lambda" style="display: block; margin: 0 auto;">
+    <img src="images/lambda.png" alt="AWS Lambda" style="display: block; margin: 0 auto;">
 </div>
 
 
