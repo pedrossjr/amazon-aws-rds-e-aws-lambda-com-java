@@ -21,15 +21,17 @@ SQL Server.
 
 O AWS Lambda é o serviço da Amazon de arquiterura Serverless, que permite executar código de resposta a eventos sem a necessidade de provisionar ou gerenciar servidores onde, a AWS Lambda se encarrega de toda a infraestrutura necessária para executar esse código, como servidores, escalabilidade, balanceamento de carga, e manutenção. Com isso, o desenvolvedor agilidade no desenvolvimento de códigos como: Node.js, Python, Java, .Net e Ruby e o provedor de nuvem se encarrega do restante, eliminando a complexidade da infraestrutura, a redução de custo pois você só paga somente pelo tempo de execução da função e escalabilidade automática.
 
-> ### Serviços utilizados
+> ### Tecnologias utilizadas
 
 * Uma conta Free Tier na Amazon Web Service. Será necessário cadastrar um cartão de crédito.
-* Amazon RDS (PostgreSQL)
-* AWS Lambda (Funções e Camadas)
+* AWS Lambda – Execução de funções serverless
+* Amazon RDS (PostgreSQL) – Gerenciamento de dados com alta disponibilidade
+* Java 21 + Maven – Lógica da aplicação
+* JDBC + Driver PostgreSQL – Integração com o banco de dados
+* AWS IAM + Lambda Role – Segurança e permissões de execução
 
 > ### Ferramentas utilizadas
 
-* Java 21
 * IntelliJ IDEA Community Edition
 * pgAdmin 4
 
