@@ -23,7 +23,7 @@ O AWS Lambda é o serviço da Amazon de arquiterura Serverless, que permite exec
 
 > ### Tecnologias utilizadas
 
-* Uma conta Free Tier na Amazon Web Service. Será necessário cadastrar um cartão de crédito.
+* Uma conta Free Tier na Amazon Web Service. _Será necessário cadastrar um cartão de crédito._
 * AWS Lambda - Execução de funções serverless
 * Amazon RDS (PostgreSQL) - Gerenciamento de dados com alta disponibilidade
 * Java 21 + Maven - Lógica da aplicação
