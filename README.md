@@ -19,7 +19,7 @@ SQL Server.
 
 > ### O que é a AWS Lambda?
 
-O AWS Lambda é o serviço da Amazon de arquiterura Serverless, que permite executar código de resposta a eventos sem a necessidade de provisionar ou gerenciar servidores onde, a AWS Lambda se encarrega de toda a infraestrutura necessária para executar esse código, como servidores, escalabilidade, balanceamento de carga, e manutenção. Com isso, o desenvolvedor agilidade no desenvolvimento de códigos como: Node.js, Python, Java, .Net e Ruby e o provedor de nuvem se encarrega do restante, eliminando a complexidade da infraestrutura, a redução de custo pois você só paga somente pelo tempo de execução da função e escalabilidade automática.
+O AWS Lambda é o serviço da Amazon de arquiterura Serverless, que permite executar código de resposta a eventos sem a necessidade de provisionar ou gerenciar servidores. A AWS Lambda se encarrega de toda a infraestrutura necessária para a execução do código, como servidores, escalabilidade, balanceamento de carga e manutenção. Com isso o desenvolvedor ganha agilidade na criação de códigos como Node.js, Python, Java, .Net e Ruby e o provedor de nuvem se encarrega do restante, eliminando a complexidade da infraestrutura, a redução de custo pois você paga somente pelo tempo de execução da função além da escalabilidade automática.
 
 > ### Tecnologias utilizadas
 
