@@ -10,6 +10,10 @@
 
 __Esta documentação foi elaborada em 18/04/2025.__
 
+> ### Descrição do projeto
+
+Nesta documentação ensino como criar um projeto utilizando Amazon RDS com banco de dados PostgreSQL, AWS Lambda utilizando funções e camadas e a linguagem de programação Java para demosntrar na prática a utilização de Serverless.
+
 > ### O que é a Amazon RDS?
 
 A Amazon RDS (Relational Database Service), em português Serviço de Banco de Dados Relacional, 
